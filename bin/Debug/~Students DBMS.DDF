@@ -1,0 +1,37 @@
+;Auto-generated Diamond Directive File. Can be deleted without harm.
+.Set CabinetNameTemplate=F:\Documents\Student DBMS latest version\bin\Debug\~Students DBMS.CAB
+.Set CompressionType=LZX
+.Set CompressionLevel=7
+.Set InfFileName=F:\Documents\Student DBMS latest version\bin\Debug\~Students DBMS_LAYOUT.INF
+.Set RptFileName=F:\Documents\Student DBMS latest version\bin\Debug\~Students DBMS.RPT
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=0
+.Set InfCabinetLineFormat=*cab#*=Application Source Media,*cabfile*,0
+.Set Compress=on
+.Set CompressionMemory=21
+.Set DiskDirectoryTemplate=
+.Set Cabinet=ON
+.Set MaxCabinetSize=999999999
+.Set InfDiskHeader=
+.Set InfDiskLineFormat=
+.Set InfCabinetHeader=[SourceDisksNames]
+.Set InfFileHeader=
+.Set InfFileHeader1=[SourceDisksFiles]
+.Set InfFileLineFormat=*file*=*cab#*,,*size*,*csum*
+F:\Documents\Student DBMS latest version\add.c
+F:\Documents\Student DBMS latest version\add.h
+F:\Documents\Student DBMS latest version\edit.c
+F:\Documents\Student DBMS latest version\edit.h
+F:\Documents\Student DBMS latest version\info.txt
+F:\Documents\Student DBMS latest version\main.c
+F:\Documents\Student DBMS latest version\mainheader.h
+F:\Documents\Student DBMS latest version\recycle.txt
+F:\Documents\Student DBMS latest version\search.c
+F:\Documents\Student DBMS latest version\search.h
+F:\Documents\Student DBMS latest version\struct.h
+F:\Documents\Student DBMS latest version\student.txt
+F:\Documents\Student DBMS latest version\Students DBMS.cbp
+F:\Documents\Student DBMS latest version\Students DBMS.depend
+F:\Documents\Student DBMS latest version\STUDEN~1.LAY
+F:\Documents\Student DBMS latest version\view.c
+F:\Documents\Student DBMS latest version\view.h

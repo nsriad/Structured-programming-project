@@ -1,0 +1,226 @@
+# depslib dependency file v1.0
+1511897429 source:f:\documents\progrmming\students dbms\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mainheader.h"
+
+1511874335 f:\documents\progrmming\students dbms\mainheader.h
+	"add.h"
+	"view.h"
+	"search.h"
+	"edit.h"
+
+1511897517 f:\documents\progrmming\students dbms\add.h
+	<stdio.h>
+
+1511886630 f:\documents\progrmming\students dbms\view.h
+
+1511889007 f:\documents\progrmming\students dbms\search.h
+
+1511918982 f:\documents\progrmming\students dbms\edit.h
+
+1511921828 source:j:\students dbms\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mainheader.h"
+
+1511874336 j:\students dbms\mainheader.h
+	"add.h"
+	"view.h"
+	"search.h"
+	"edit.h"
+
+1511920462 j:\students dbms\add.h
+	<stdio.h>
+
+1511922126 j:\students dbms\view.h
+
+1511921010 j:\students dbms\search.h
+
+1511922214 j:\students dbms\edit.h
+
+1511921828 source:g:\students dbms 1607096\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mainheader.h"
+
+1511874336 g:\students dbms 1607096\mainheader.h
+	"add.h"
+	"view.h"
+	"search.h"
+	"edit.h"
+
+1511920462 g:\students dbms 1607096\add.h
+	<stdio.h>
+
+1511922126 g:\students dbms 1607096\view.h
+
+1511921010 g:\students dbms 1607096\search.h
+
+1511931434 g:\students dbms 1607096\edit.h
+
+1512135315 source:f:\documents\progrmming\students dbms 1607096\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mainheader.h"
+
+1511874336 f:\documents\progrmming\students dbms 1607096\mainheader.h
+	"add.h"
+	"view.h"
+	"search.h"
+	"edit.h"
+
+1512127359 f:\documents\progrmming\students dbms 1607096\add.h
+	<stdio.h>
+
+1512122227 f:\documents\progrmming\students dbms 1607096\view.h
+
+1512122893 f:\documents\progrmming\students dbms 1607096\search.h
+
+1512137868 f:\documents\progrmming\students dbms 1607096\edit.h
+
+1512137986 source:c:\users\administrator\desktop\my project\main.c
+	"mainheader.h"
+
+1512137986 c:\users\administrator\desktop\my project\mainheader.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"add.h"
+	"view.h"
+	"search.h"
+	"edit.h"
+
+1512139901 c:\users\administrator\desktop\my project\add.h
+
+1512140096 c:\users\administrator\desktop\my project\view.h
+
+1512140096 c:\users\administrator\desktop\my project\search.h
+
+1512140096 c:\users\administrator\desktop\my project\edit.h
+
+1512141002 source:c:\users\administrator\desktop\my project\add.c
+	"add.h"
+	<stdio.h>
+	<stdlib.h>
+	"struct.h"
+
+1512140401 c:\users\administrator\desktop\my project\struct.h
+
+1512142506 source:c:\users\administrator\desktop\my project\edit.c
+	"edit.h"
+	"struct.h"
+	<stdio.h>
+	<stdlib.h>
+
+1512141002 source:c:\users\administrator\desktop\my project\view.c
+	"view.h"
+	"struct.h"
+	<stdio.h>
+	<stdlib.h>
+
+1512141292 source:c:\users\administrator\desktop\my project\search.c
+	"search.h"
+	"struct.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1512141004 source:j:\cse 1202\my project\add.c
+	"add.h"
+	<stdio.h>
+	<stdlib.h>
+	"struct.h"
+
+1512139902 j:\cse 1202\my project\add.h
+
+1512140402 j:\cse 1202\my project\struct.h
+
+1512491736 source:j:\cse 1202\my project\edit.c
+	"edit.h"
+	"struct.h"
+	<stdio.h>
+	<stdlib.h>
+
+1512140098 j:\cse 1202\my project\edit.h
+
+1512491606 source:j:\cse 1202\my project\main.c
+	"mainheader.h"
+
+1512137988 j:\cse 1202\my project\mainheader.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"add.h"
+	"view.h"
+	"search.h"
+	"edit.h"
+
+1512140098 j:\cse 1202\my project\view.h
+
+1512140098 j:\cse 1202\my project\search.h
+
+1512490348 source:j:\cse 1202\my project\search.c
+	"search.h"
+	"struct.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1512489776 source:j:\cse 1202\my project\view.c
+	"view.h"
+	"struct.h"
+	<stdio.h>
+	<stdlib.h>
+
+1512141004 source:f:\documents\student dbms latest version\add.c
+	"add.h"
+	<stdio.h>
+	<stdlib.h>
+	"struct.h"
+
+1512139902 f:\documents\student dbms latest version\add.h
+
+1512140402 f:\documents\student dbms latest version\struct.h
+
+1512493144 source:f:\documents\student dbms latest version\edit.c
+	"edit.h"
+	"struct.h"
+	<stdio.h>
+	<stdlib.h>
+
+1512140098 f:\documents\student dbms latest version\edit.h
+
+1512491606 source:f:\documents\student dbms latest version\main.c
+	"mainheader.h"
+
+1512137988 f:\documents\student dbms latest version\mainheader.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"add.h"
+	"view.h"
+	"search.h"
+	"edit.h"
+
+1512140098 f:\documents\student dbms latest version\view.h
+
+1512140098 f:\documents\student dbms latest version\search.h
+
+1512490348 source:f:\documents\student dbms latest version\search.c
+	"search.h"
+	"struct.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1512489776 source:f:\documents\student dbms latest version\view.c
+	"view.h"
+	"struct.h"
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,2 @@
+void view();
+void recycle();
